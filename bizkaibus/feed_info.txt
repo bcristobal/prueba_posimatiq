@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,default_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
+Lantik,https://www.lantik.bizkaia.eus/,es,es,20261109,20270109,20261110,lantik.gtfs@gmail.com,https://www.bizkaia.eus/es/web/bizkaibus
